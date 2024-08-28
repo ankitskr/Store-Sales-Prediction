@@ -1,4 +1,4 @@
-# Exploratory Data Analysis and Modelling for Rossman store sales prediction
+# Rossman store sales prediction
 
 ## Project Overview
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
@@ -53,7 +53,8 @@ We have been provided data with the following data fields.
 - **Jupyter Notebook**: For interactive data analysis and sharing of results.
 
 ## Working demonstration
-A working demonstration is provided in the notebook folder.
+A working demonstration is provided in the notebooks folder.
+[notebooks/rossman_sales_prediction.ipynb](https://github.com/ankitskr/Store-Sales-Prediction/blob/master/notebooks/rossman_sales_prediction.ipynb)
 
 ## Project Takeaways
 1. Understanding the problem statement
