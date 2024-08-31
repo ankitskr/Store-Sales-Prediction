@@ -5,7 +5,7 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 In this machine learning project, we will work on forecasting 6 weeks of daily sales for 1,115 stores located across Germany. Reliable sales forecasts enable store managers to create effective staff schedules that increase productivity and motivation. By helping Rossmann create a robust prediction model, we will help store managers stay focused on what’s most important to them: their customers and their teams! 
 
 ## Project Aim
-1. Perform Feature Importance Analysis, useful to gain feature insights and perform feature selection.
+1. Perform Feature Importance Analysis to gain feature insights and perform feature selection.
 2. Forecast 6 weeks of daily sales using a suitable ML regression model. 
 
 ## Data Description
