@@ -14,11 +14,10 @@ In this project, we will work developing machine learning models capable of fore
 
 ## Approach
 1. **Exploratory Data Analysis**: Exploratory data analysis is the process of analysing the dataset to understand its characteristics. In this step, we will figure out the following.
-- Checking for null / inconsistent values and various other insights are drawn.
-- Correlations
-- Imputation (filling the missing values)
-- Outliers Detection and removal
 - Label Encoding and One hot encoding
+- Correlations
+- Checking for inconsistent values
+- Imputation (filling the missing values)
 2. **Model Building and evaluation** Various regression algorithms are applied on the dataset and the model that suits best for the dataset is selected. The models that we apply for this dataset are
 - Linear Regression
 - Decision Tree Regressor
