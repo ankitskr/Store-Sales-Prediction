@@ -34,4 +34,7 @@ In this project, we will work developing machine learning models capable of fore
 
 ## Working demonstration
 A working demonstration is provided in the notebooks folder.
-[notebooks/rossman_sales_prediction.ipynb](https://github.com/ankitskr/Store-Sales-Prediction/blob/master/notebooks/rossman_sales_prediction.ipynb)
+- Cleanup and EDA: [notebooks/rossman_sales_cleanup_and_EDA.ipynb](https://github.com/ankitskr/Store-Sales-Prediction/blob/master/notebooks/rossman_sales_cleanup_and_EDA.ipynb)
+- Prediction modelling: [notebooks/rossman_sales_prediction_modelling.ipynb](https://github.com/ankitskr/Store-Sales-Prediction/blob/master/notebooks/rossman_sales_prediction_modelling.ipynb)
+
+
